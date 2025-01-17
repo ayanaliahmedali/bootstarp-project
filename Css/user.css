@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: #eff1f3;
+}
+
+.logo {
+    gap: 40px;
+}
+
+.teal {
+    background-color: #fff;
+    border-bottom: 2px solid rgb(222, 226, 230);
+}
+
+.input-group {
+    width: 70%;
+}
+
+.heading-and-para h3 {
+    font-weight: 600;
+}
+
+.heading-and-para p {
+    font-size: 12px;
+}
+
+.img-and-heading h4 {
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+}
+
+.accordion-body li {
+    list-style-type: none;
+}
+
+.accordion-body {
+    font-weight: 500;
+}
+
+.accordion-button {
+    width: 100px;
+}
+
+.card {
+    width: 1300px;
+    height: 500px;
+}
+
+.counting h3 {
+    font-size: 16px;
+    font-weight: 400;
+}

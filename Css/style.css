@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.w3-bar-block .w3-bar-item span{
+    color: yellow;
+    font-size: 25px;
+}
+
+.menu-label {
+    padding: 10px 16px 10px 16px;
+    color: black;
+    font-size: 17px;
+}
+
+.accordion-collapse>li {
+    list-style: none;
+}
+
+.fa-regular, .far {
+    font-weight: 400;
+    color: white;
+}
+
+.w3-container {
+    height: 72px;
+}
+
+.input-btn{
+    width: 80%;
+}
+
+.text-decoration-none{
+    text-decoration: none;
+}
+
+.teal {
+    background-color: #fff;
+    border-bottom: 2px solid rgb(222, 226, 230);
+}

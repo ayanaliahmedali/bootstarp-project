@@ -1,0 +1,27 @@
+.display-none.accordion-button::after {
+    display: none;
+}
+
+.w3-button:hover {
+    color: #000 !important;
+}
+.w3-sidebar {
+    top: 0;
+}
+
+div#apexchartsenow3t7i {
+    width: 754px;
+    height: 280px;
+}
+
+@media (min-width: 1200px) {
+    .col-xl-6 {
+        flex: 0 0 auto;
+        width: 30%;
+    }
+}
+
+button, input {
+    border: none;
+    background: #e7e3e3;
+}
